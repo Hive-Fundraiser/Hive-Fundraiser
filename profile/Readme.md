@@ -40,7 +40,7 @@ The following technologies were used in the development of Hive:
 ## 💿 Installation and Setup
 To run Hive on your local machine, follow these steps:
 
-1. 🐝 Clone the repository to your local machine using the command ``` git clone https://github.com/mohammadalimojtahedsoleimani/Hive-Project.git ```.
+1. 🐝 Clone the repository to your local machine using the command ``` git clone https://github.com/Hive-Fundraiser/Hive-Project.git ```.
 2. 📦 Install the necessary dependencies by running ```npm install``` in both the `client` and `server` directories.
 3. 🔒 Create a `.env` file in the `server` directory and add your MongoDB connection string as `MONGODB_URI` and your JWT secret key as `JWT_SECRET`.
 4. 🚀 Start the development server by running `npm start` in both the `client` and `server` directories.
