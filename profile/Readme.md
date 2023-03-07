@@ -3,15 +3,15 @@ Welcome to the Hive project, an Iranian crowdfunding platform designed to help p
 
 ## Table of Contents
 
-- [Features](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-features)
-- [Technologies Used](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-technologies-used)
-- [Installation and Setup](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-Installation-and-Setup)
-- [Usage](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-Usage)
-- [UI/UX Design](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-UI/UX-Design)
-- [Contributing](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-Contributing)
-- [License](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-License)
-- [About Hive](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#-about-hive)
-- [Learn More](https://github.com/mohammadalimojtahedsoleimani/Hive-Project#%EF%B8%8F-learn-more)
+- [Features](https://github.com/Hive-Fundraiser#-features)
+- [Technologies Used](https://github.com/Hive-Fundraiser#-technologies-used)
+- [Installation and Setup](https://github.com/Hive-Fundraiser#-Installation-and-Setup)
+- [Usage](https://github.com/Hive-Fundraiser#-Usage)
+- [UI/UX Design](https://github.com/Hive-Fundraiser#-UI/UX-Design)
+- [Contributing](https://github.com/Hive-Fundraiser#-Contributing)
+- [License](https://github.com/Hive-Fundraiser#-License)
+- [About Hive](https://github.com/Hive-Fundraiser#-about-hive)
+- [Learn More](https://github.com/Hive-Fundraiser#%EF%B8%8F-learn-more)
 
 
 ## 🚀 Features
