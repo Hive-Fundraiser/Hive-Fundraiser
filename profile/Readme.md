@@ -50,7 +50,7 @@ To run Hive on your local machine, follow these steps:
 Once the server is up and running, you can access the Hive web app at http://localhost:3000/. From there, you can sign up for an account or log in if you already have one. Once logged in, you can create a new campaign, donate to existing campaigns, and view your profile and campaign history.
 
 ## 🎨 UI/UX Design
-The UI/UX design of Hive was created using Figma. You can view the design at https://www.figma.com/file/59GZzb7DHjFcDfvLmhNzqa/Hive-UI%2FUX-Design?t=eFZ8ufW2aJE90wlN-1.
+The UI/UX design of Hive was created using Figma. You can view the design at https://www.figma.com/community/file/1263057594890143017.
 
 ## 🤝 Contributing
 If you'd like to contribute to Hive, please follow these steps:
